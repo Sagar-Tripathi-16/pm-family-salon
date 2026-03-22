@@ -1,0 +1,123 @@
+Act as a senior frontend developer and UI/UX designer.
+
+Goal:
+Build a modern, premium-looking, mobile-first website for a unisex salon that is conversion-focused (drives WhatsApp bookings), using clean and maintainable HTML, CSS, and minimal JavaScript.
+
+Business Details:
+- Name: PM Family Unisex Salon
+- Tagline: Hair | Skin | Makeover
+- Location: No 75/2, Gantiganahalli, Naganahalli Main Road, Yelahanka, Bangalore, Karnataka 560064
+- Phone: +91 7349661676, +91 9353667336
+- WhatsApp Booking Number: +91 7349661676
+- Instagram: pm_family_unisex_saloon_
+- Rating: 4.9 ⭐ (display as “Based on 100+ Google Reviews”)
+
+Booking:
+- Primary booking method: WhatsApp only
+- Pre-filled message:
+  "Hi, I want to book an appointment at PM Family Unisex Salon"
+
+Design Requirements:
+- Theme: Premium but affordable
+- Colors: Black, White, Classic Metallic Gold
+- Style: Clean, modern, elegant (not overly luxury)
+- Strong visual hierarchy and spacing
+- Mobile-first responsive design
+- Smooth scrolling and subtle animations
+
+Assets:
+- Use the provided logo in navbar and footer
+- Use provided salon photos in hero and gallery
+- Optimize images for performance
+- Ensure clean alignment and no distortion
+
+Website Structure (Single-page scrolling):
+
+1. Hero Section:
+- Heading: "Best Unisex Salon in Yelahanka for Hair, Skin & Grooming"
+- Subtext: "Walk-ins & Appointments Available"
+- CTA Buttons:
+  - Primary: "Book via WhatsApp" → link: https://wa.me/917349661676
+  - Secondary: "Call Now" → tel:7349661676
+- Background: salon image with overlay for readability
+
+2. About Section:
+- Short, clean paragraph highlighting:
+  - Experienced stylists
+  - Hygienic environment
+  - Customer satisfaction
+
+3. Services Section:
+Create modern cards with hover effects for:
+- Haircut & Styling
+- Beard Grooming
+- Facial & Skincare
+- Hair Coloring
+- Bridal / Makeup
+
+4. Pricing Section:
+Clean table or cards:
+- Haircut: ₹150–₹300
+- Beard: ₹100–₹200
+- Facial: ₹500+
+
+5. Why Choose Us (Important Section):
+Add 3–4 cards:
+- Affordable pricing
+- Experienced stylists
+- Hygienic environment
+- Customer satisfaction
+
+6. Gallery Section:
+- Grid layout using provided images
+- Add hover zoom effect
+- Maintain consistent spacing
+
+7. Reviews Section:
+- Display: “Based on 100+ Google Reviews ⭐”
+- Show rating visually (4.9)
+- Do NOT use fake names
+
+8. Booking Section:
+- Title: "Book Your Appointment"
+- Text: "Click below to book instantly via WhatsApp"
+- Subtext: "Quick response within minutes"
+- Single CTA button: "Book via WhatsApp"
+
+9. Contact Section:
+- Display full address
+- Clickable phone numbers
+- WhatsApp highlight
+- Embedded Google Map using iframe (exact location pin)
+- Add "Get Directions" button linking to:
+  https://maps.app.goo.gl/iSHpjmjdFm31LMh96
+
+10. Footer:
+- Business name
+- Quick navigation links
+- Instagram link
+
+UI/UX Improvements:
+- Consistent spacing system (24px / 32px)
+- Clean alignment across all sections
+- Button hover effects (scale + shadow)
+- Card hover lift effect
+- Rounded corners for modern UI
+- Proper contrast for readability
+
+Technical Requirements:
+- Use semantic HTML
+- Modular, clean CSS (no clutter)
+- Minimal JavaScript
+- Fast loading performance
+- Fully responsive on all screen sizes
+
+Important Constraints:
+- Do NOT include any watermark (e.g., “Made with …”)
+- Do NOT include booking forms or backend systems
+- Do NOT use placeholder fake data for reviews
+- Keep code clean and ready for deployment
+
+Output:
+- Provide complete working code (HTML, CSS, JS)
+- Ensure it can be directly deployed on Netlify or GitHub Pages
