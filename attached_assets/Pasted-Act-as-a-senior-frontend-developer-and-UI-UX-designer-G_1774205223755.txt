@@ -1,0 +1,71 @@
+Act as a senior frontend developer and UI/UX designer.
+
+Goal:
+Refine and polish my existing salon website (already built) to achieve a high-end, premium, production-ready UI similar to modern professional salon websites.
+
+IMPORTANT:
+- Do NOT redesign from scratch
+- Keep current layout, colors (black, white, gold), and structure
+- Only enhance visual quality, spacing, and UX
+
+Focus on these improvements:
+
+1. Spacing System:
+- Apply consistent spacing across all sections (80px vertical padding)
+- Maintain uniform gaps between cards (24px)
+- Improve internal padding for better readability
+
+2. Typography Refinement:
+- Improve heading spacing and hierarchy
+- Increase line-height in paragraphs
+- Ensure better readability in About section (break long text into smaller blocks)
+
+3. Navbar Enhancement:
+- Add subtle shadow or blur effect
+- Smooth transition when scrolling (transparent → solid)
+- Improve alignment and spacing
+
+4. Hero Section Polish:
+- Improve spacing between logo, tagline, and heading
+- Ensure perfect visual balance
+- Slightly refine overlay for better text contrast
+
+5. Card UI Improvements:
+- Add stronger hover effects (lift + shadow + subtle gold glow)
+- Ensure consistent card height and alignment
+- Improve icon alignment inside cards
+
+6. Gallery Enhancement:
+- Improve spacing and layout consistency
+- Add hover zoom + overlay
+- Add optional lightbox (click to view full image)
+
+7. Contact Section Upgrade:
+- Improve layout spacing and alignment
+- Wrap map in a clean card with rounded corners
+- Improve visual hierarchy of contact details
+- Highlight WhatsApp section more clearly
+
+8. Buttons & CTA:
+- Improve hover animations (scale + shadow)
+- Ensure WhatsApp CTA stands out everywhere
+- Maintain consistent button styles
+
+9. Animations:
+- Use smooth, subtle animations (0.3–0.5s)
+- Avoid heavy animations
+- Ensure performance remains fast
+
+10. Mobile Optimization:
+- Fix spacing and stacking issues
+- Ensure buttons are large and touch-friendly
+- Maintain clean readability
+
+Constraints:
+- Keep design minimal and premium
+- Do not add unnecessary features
+- Maintain fast loading performance
+- Keep code clean and maintainable
+
+Goal:
+Make the website visually polished, balanced, and comparable to high-end modern salon websites.
